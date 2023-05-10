@@ -54,4 +54,5 @@ function personDetails(name, state, age, job) {
 }
 
 personDetails("Jasim", "Dhaka", "32", "Kamla");
+personDetails("Karim", "Dhaka", "32", "Kamla");
 personDetails("Abdullah", "Sirajganj", "23", "Front-end Developer");
