@@ -1,3 +1,9 @@
+// This is my Javascript practise part
+
+// First lession
+
+// Javascript Function
+
 function sleep(names, time) {
   console.log(names + " is sleeping from " + time);
 }
@@ -56,3 +62,25 @@ function personDetails(name, state, age, job) {
 personDetails("Jasim", "Dhaka", "32", "Kamla");
 personDetails("Karim", "Dhaka", "32", "Kamla");
 personDetails("Abdullah", "Sirajganj", "23", "Front-end Developer");
+
+// First lession done
+
+// Second lession
+
+// Javascrip Objects
+
+const cars = {
+  name: "volbo",
+  model: 500,
+  price: "30 lakh",
+  weight: "600kg",
+  start: function () {
+    console.log("Cars is start now");
+  },
+  drive: function () {
+    console.log("Cars is driving by aj");
+  },
+};
+
+cars.start();
+console.log(cars.model);
