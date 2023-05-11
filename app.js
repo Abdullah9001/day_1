@@ -37,7 +37,7 @@ function otherFunction(names2) {
   return names2 + "this is awesome " + otherName;
 }
 
-otherFunction("Hey Jubayer");
+otherFunction("HeyHey Abdullah Jubayer");
 
 let y = otherFunction("Abdullah");
 console.log(y);
