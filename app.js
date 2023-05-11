@@ -107,3 +107,15 @@ console.log(numbers);
 function timeUpdate() {
   console.log(Date());
 }
+
+const text =
+  "Amader desher nam Bangladesh bangladesh ami amar desh ke khub valobasi";
+
+console.log(text);
+
+const a = "abdullah";
+const b = String("abdullah");
+
+console.log(a == b);
+
+// first day second lession done
