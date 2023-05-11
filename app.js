@@ -39,7 +39,7 @@ function otherFunction(names2) {
 
 otherFunction("Hey Jubayer");
 
-let y = otherFunction("Abdullah");
+let y = otherFunction("Abdullah ");
 console.log(y);
 
 let car2 = "maruti";
