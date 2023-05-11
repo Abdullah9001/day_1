@@ -98,3 +98,8 @@ const person = {
 };
 
 console.log(person.fullName());
+
+let number = 45;
+let numbers = new Number(56);
+console.log(number, numbers);
+console.log(numbers);
