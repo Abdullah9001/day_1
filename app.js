@@ -90,7 +90,7 @@ console.log(cars.name);
 
 const person = {
   firstName: "Abdullah",
-  LastName: "Jubayer",
+  LastName: "Jubayer Toaha",
   id: 49876954,
   fullName: function () {
     return this.firstName + " " + this.LastName;
