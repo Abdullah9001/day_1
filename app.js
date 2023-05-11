@@ -75,6 +75,7 @@ const cars = {
   price: "30 lakh",
   weight: "600kg",
   start: function () {
+    this.drive();
     console.log("Cars is start now");
   },
   drive: function () {
@@ -83,4 +84,17 @@ const cars = {
 };
 
 cars.start();
+console.log(cars["weight"]);
 console.log(cars.model);
+console.log(cars.name);
+
+const person = {
+  firstName: "Abdullah",
+  LastName: "Jubayer",
+  id: 49876954,
+  fullName: function () {
+    return this.firstName + " " + this.LastName;
+  },
+};
+
+console.log(person.fullName());
