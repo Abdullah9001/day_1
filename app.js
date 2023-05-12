@@ -139,3 +139,6 @@ console.log(upperCase);
 console.log(lowerCase);
 
 // First day thirdh lession done
+
+const str2 = "This is my text";
+console.log(str2.indexOf("my"));
