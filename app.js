@@ -119,3 +119,23 @@ const b = String("abdullah");
 console.log(a == b);
 
 // first day second lession done
+
+const country = "Bangladesh";
+
+console.log(country);
+
+const fruits = "Apple, Banana, Mango";
+const oneFruits = fruits.slice(7, 13);
+console.log(oneFruits);
+
+const str = "I love Sokina";
+const zarina = str.replace("Sokina", "Zarina");
+console.log(zarina);
+
+const text1 = "Hello World";
+const upperCase = text1.toUpperCase();
+const lowerCase = text1.toLowerCase();
+console.log(upperCase);
+console.log(lowerCase);
+
+// First day thirdh lession done
