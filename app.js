@@ -142,3 +142,5 @@ console.log(lowerCase);
 
 const str2 = "This is my text";
 console.log(str2.indexOf("my"));
+console.log(str2.search("text"));
+console.log(str2.includes("text"));
