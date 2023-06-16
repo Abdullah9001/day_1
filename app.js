@@ -138,7 +138,7 @@ const lowerCase = text1.toLowerCase();
 console.log(upperCase);
 console.log(lowerCase);
 
-// First day thirdh lession done
+// First day third lesson done
 
 const str2 = "This is my text";
 console.log(str2.indexOf("my"));
