@@ -1,6 +1,6 @@
-// This is my Javascript practise part
+// This is my Javascript practice part
 
-// First lession
+// First lesson
 
 // Javascript Function
 
@@ -63,16 +63,16 @@ personDetails("Jasim", "Dhaka", "32", "Kamla");
 personDetails("Karim", "Dhaka", "32", "Kamla");
 personDetails("Abdullah", "Sirajganj", "23", "Front-end Developer");
 
-// First lession done
+// First lesson done
 
-// Second lession
+// Second lesson
 
-// Javascrip Objects
+// Javascript Objects
 
 const cars = {
-  name: "volbo",
+  name: "Volvo",
   model: 500,
-  price: "30 lakh",
+  price: "30 lahks",
   weight: "600kg",
   start: function () {
     this.drive();
@@ -118,7 +118,7 @@ const b = String("abdullah");
 
 console.log(a == b);
 
-// first day second lession done
+// first day second lesson done
 
 const country = "Bangladesh";
 
